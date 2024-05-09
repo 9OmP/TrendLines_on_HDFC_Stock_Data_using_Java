@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jfreechart-1.0.19">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/Java External Libraries/jfreechart-1.0.19/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/Java External Libraries/opencsv-5.5.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/Java External Libraries/jar_files/jcommon-1.0.23.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/Java External Libraries/commons-csv-1.10.0-bin/commons-csv-1.10.0/commons-csv-1.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
